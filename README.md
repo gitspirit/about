@@ -7,7 +7,7 @@ First group of our projects solves the recruitment problem in IT. It enables the
 * [gitspirit/jobs](https://github.com/gitspirit/jobs)
 * [gitspirit/match](https://github.com/gitspirit/match)
 
-gitspirit/about repository is the single place of documentation on concepts, processes and everything related to projects of the gitspirit community.
+This gitspirit/about repository is the single place of documentation on concepts, processes and everything related to projects of the gitspirit community.
 
 Each individual project in turn maintains its own documentation on development and usage.
 
